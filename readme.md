@@ -1,5 +1,5 @@
-Aula Logica 05/09
-GIT, GIT HUB E VSCODE
+## ula Logica 05/09
+# GIT, GIT HUB E VSCODE
 - repositorio, branch, pull request, merge
 - Branch sao ramificações - Especie de arvore com varias ramificacoes de equipes diferentes
 - Pull request - Solicitar para misturar
