@@ -11,9 +11,4 @@ caixa alta, ele vira arquivo de destaque do repositorio e perfil
 - Gerador de Readme online
 - Criar repositorio e arquivos dentro dele
 - issues sao quando alguem abre um chamado, para infomrar melhoria ou correção de algo
-- Fizemos fork
--- É NECESSÁRIO CRIAR CONTA NO GITHUB
--- Atividade é colocar um resumo da aula de hoje no repositorio da aula
-https://github.com/mende1/guia-definitivo-de-markdown
--- Atividade é botar o resumo da aula no Arquivo md do repositorio, da forma que quiser, use a
-criatividade.
+
